@@ -1,10 +1,9 @@
 MIT License
 
 Copyright (c) 2026 berat
+Copyright (c) David Heinemeier Hansson (Omarchy — https://github.com/basecamp/omarchy)
 
-Bu eklenti Omarchy'nin `omarchy.notifications` eklentisinden türetilmiştir:
-https://github.com/basecamp/omarchy — Copyright (c) David Heinemeier Hansson,
-MIT License.
+Bu eklenti Omarchy'nin `omarchy.notifications` eklentisinden türetilmiştir.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
